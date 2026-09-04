@@ -346,7 +346,16 @@ The evaluation reports MWE-based precision, recall and F1 scores.
 
 ## Citation
 
-G-VAMP is described in the following paper, accepted for publication in *Array*:
+G-VAMP is described in the following paper:
+
+**Santiago Fernández Lanza, Víctor Manuel Darriba Bilbao, Daniel Fernández-González.**
+*g-vamp: Improving sequence labelling frameworks for multiword expressions identification*,
+**Array**,
+Volume 31,
+2026,
+101164,
+ISSN 2590-0056,
+https://doi.org/10.1016/j.array.2026.101164.
 
 **Santiago Fernández Lanza, Víctor Manuel Darriba Bilbao, and Daniel Fernández-González.**
 *G-VAMP: Improving Sequence Labelling Frameworks for Multiword Expressions Identification.*
