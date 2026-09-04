@@ -357,10 +357,6 @@ Volume 31,
 ISSN 2590-0056,
 https://doi.org/10.1016/j.array.2026.101164.
 
-**Santiago Fernández Lanza, Víctor Manuel Darriba Bilbao, and Daniel Fernández-González.**
-*G-VAMP: Improving Sequence Labelling Frameworks for Multiword Expressions Identification.*
-**Array**, accepted for publication.
-
 If you use G-VAMP in your research, please cite:
 
 ```bibtex
