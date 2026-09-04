@@ -355,11 +355,17 @@ G-VAMP is described in the following paper, accepted for publication in *Array*:
 If you use G-VAMP in your research, please cite:
 
 ```bibtex
-@article{fernandezlanza_gvamp,
-  title   = {G-VAMP: Improving Sequence Labelling Frameworks for Multiword Expressions Identification},
-  author  = {Fernández Lanza, Santiago and Darriba Bilbao, Víctor Manuel and Fernández-González, Daniel},
-  journal = {Array},
-  note    = {Accepted for publication}
+@article{FERNANDEZLANZA2026101164,
+title = {g-vamp: Improving sequence labelling frameworks for multiword expressions identification},
+journal = {Array},
+volume = {31},
+pages = {101164},
+year = {2026},
+issn = {2590-0056},
+doi = {https://doi.org/10.1016/j.array.2026.101164},
+url = {https://www.sciencedirect.com/science/article/pii/S259000562600487X},
+author = {Santiago {Fernández Lanza} and Víctor Manuel {Darriba Bilbao} and Daniel Fernández-González},
+keywords = {Multiword expressions, Verbal multiword expressions, Token sharing, Corpus variant generation, Sequence labelling, Transformer-based models, Multilingual }
 }
 ```
 
