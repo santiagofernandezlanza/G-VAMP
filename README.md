@@ -4,7 +4,12 @@
 
 > Santiago Fernández Lanza, Víctor Manuel Darriba Bilbao, and Daniel Fernández-González.
 > **G-VAMP: Improving Sequence Labelling Frameworks for Multiword Expressions Identification.**
-> *Array*, accepted for publication.
+> *Array*,
+> Volume 31,
+> 2026,
+> 101164,
+> ISSN 2590-0056,
+> https://doi.org/10.1016/j.array.2026.101164.
 
 G-VAMP is a method for improving the identification of **verbal multiword expressions (VMWEs) with shared tokens** using sequence-labelling models.
 
@@ -349,7 +354,7 @@ The evaluation reports MWE-based precision, recall and F1 scores.
 G-VAMP is described in the following paper:
 
 **Santiago Fernández Lanza, Víctor Manuel Darriba Bilbao, Daniel Fernández-González.**
-*g-vamp: Improving sequence labelling frameworks for multiword expressions identification*,
+*G-VAMP: Improving sequence labelling frameworks for multiword expressions identification*,
 **Array**,
 Volume 31,
 2026,
@@ -361,7 +366,7 @@ If you use G-VAMP in your research, please cite:
 
 ```bibtex
 @article{FERNANDEZLANZA2026101164,
-title = {g-vamp: Improving sequence labelling frameworks for multiword expressions identification},
+title = {G-VAMP: Improving sequence labelling frameworks for multiword expressions identification},
 journal = {Array},
 volume = {31},
 pages = {101164},
