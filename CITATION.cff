@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+
+title: "G-VAMP"
+
+authors:
+  - family-names: "Fernández Lanza"
+    given-names: "Santiago"
+
+version: 1.0.0
+date-released: 2026-09-04
+
+repository-code: "https://github.com/santiagofernandezlanza/G-VAMP"
+
+message: "If you use G-VAMP, please cite the following paper:"
+
+preferred-citation:
+  type: article
+  title: "g-vamp: Improving sequence labelling frameworks for multiword expressions identification"
+  authors:
+    - family-names: "Fernández Lanza"
+      given-names: "Santiago"
+    - family-names: "Darriba Bilbao"
+      given-names: "Víctor Manuel"
+    - family-names: "Fernández-González"
+      given-names: "Daniel"
+  journal: "Array"
+  volume: 31
+  pages: 101164
+  year: 2026
+  doi: "10.1016/j.array.2026.101164"
