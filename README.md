@@ -370,7 +370,7 @@ issn = {2590-0056},
 doi = {https://doi.org/10.1016/j.array.2026.101164},
 url = {https://www.sciencedirect.com/science/article/pii/S259000562600487X},
 author = {Santiago {Fernández Lanza} and Víctor Manuel {Darriba Bilbao} and Daniel Fernández-González},
-keywords = {Multiword expressions, Verbal multiword expressions, Token sharing, Corpus variant generation, Sequence labelling, Transformer-based models, Multilingual }
+keywords = {Multiword expressions, Verbal multiword expressions, Token sharing, Corpus variant generation, Sequence labelling, Transformer-based models, Multilingual}
 }
 ```
 
