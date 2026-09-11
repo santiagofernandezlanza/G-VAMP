@@ -1,4 +1,4 @@
-# G-VAMP
+# G-VAMP: Generating VAriants and Merging Predictions
 
 **Official implementation of G-VAMP**, the method presented in:
 
