@@ -383,7 +383,7 @@ The bibliographic information will be updated with the DOI and final publication
 
 ## License
 
-Please see the repository licence for information about reuse and redistribution.
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
 ## Contact
 
